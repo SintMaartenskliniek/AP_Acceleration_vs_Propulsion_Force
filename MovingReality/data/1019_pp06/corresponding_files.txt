@@ -1,0 +1,5 @@
+1019_MR006_1Reg.c3d = exported001
+1019_MR006_FBIC.c3d = exported002 # Vicon data not of good quality
+1019_MR006_FBPO.c3d = exported003
+1019_MR006_2FB.c3d = exported004
+1019_MR006_2Reg02.c3d = exported005 # Xsens data; recording error

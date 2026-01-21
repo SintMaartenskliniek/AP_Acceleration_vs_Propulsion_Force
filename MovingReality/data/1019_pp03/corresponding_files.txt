@@ -1,0 +1,5 @@
+1019_MR003_1Reg02.c3d = exported002
+1019_MR003_FBPO.c3d = exported003
+1019_MR003_FBIC.c3d = exported004 # No xsens data available; recording error
+1019_MR003_2FB.c3d = exported005
+1019_MR003_2Reg02.c3d = exported006
