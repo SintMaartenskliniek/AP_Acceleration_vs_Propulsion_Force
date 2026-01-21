@@ -1,0 +1,5 @@
+1019_MR009_1Reg.c3d = exported000
+1019_MR009_FBIC.c3d = exported002
+1019_MR009_FBPO.c3d = exported001
+1019_MR009_2FB.c3d = exported003
+1019_MR009_2Reg.c3d = exported004

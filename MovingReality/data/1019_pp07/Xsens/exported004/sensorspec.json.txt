@@ -1,0 +1,7 @@
+{
+    "leftfoot": "00B4778E.txt",
+    "rightfoot": "00B47793.txt",
+    "leftshank": "00B47786.txt",
+    "rightshank": "00B47795.txt",
+    "lumbar": "00B47791.txt"
+}
