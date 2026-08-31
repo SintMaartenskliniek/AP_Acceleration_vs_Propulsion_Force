@@ -3,7 +3,7 @@ Code used for the study Lumbar Acceleration IMU. This work was supported by Inte
 
 <br>
 
-**FULL ARTICLE UNDER SUBMISSION**: Lars van Rengs, Katrijn Smulders, Brenda E. Groen, and Noël L. W. Keijsers: Can anterior-posterior acceleration impulse from a single, lumbar-mounted IMU serve as a surrogate for propulsion force impulse in healthy and post-stroke individuals?
+**FULL ARTICLE UNDER SUBMISSION**: Lars van Rengs, Katrijn Smulders, Brenda E. Groen, and Noël L. W. Keijsers: Can velocity increment derived from a single, lumbar-mounted inertial measurement unit serve as a surrogate for propulsion force impulse in healthy and post-stroke individuals?
 
 <br>
 
