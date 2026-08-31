@@ -37,7 +37,7 @@ Contains RStudio-script and dataset used for data analysis of this study.
 
 <br>
 
-**📄 OMCS_StepByStepDataframe.py**
+**📄 OMCS_StepByStepData.py**
 
 Creates a dataframe with OMCS gait data for the left and right leg (df_left.pkl and df_right.pkl) and saves them to the working directory.
 * Each row represents a step of a subject.
