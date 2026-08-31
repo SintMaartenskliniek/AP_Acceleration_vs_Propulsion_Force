@@ -1,5 +1,5 @@
-# AP Acceleration vs Propulsion Force
-Code used for the study AP Acceleration vs Propulsion Force. This work was supported by Interreg Deutschland-Nederland grant for LifeHelper: Real-time movement monitoring - anywhere and anytime (project number 13153).
+# Lumbar Acceleration IMU
+Code used for the study Lumbar Acceleration IMU. This work was supported by Interreg Deutschland-Nederland grant for LifeHelper: Real-time movement monitoring - anywhere and anytime (project number 13153).
 
 <br>
 
@@ -46,15 +46,15 @@ Creates a dataframe with OMCS gait data for the left and right leg (df_left.pkl 
 
 <br>
 
-**📄 main_APacceleration.py**
+**📄 main_LumbarAccelerationIMU.py**
 
-Extends the OMCS step-by-step dataframe by adding anterior-posterior (AP) acceleration impulses and peaks calculated from IMU data.
+Extends the OMCS step-by-step dataframe by adding anterior-posterior acceleration measures derived from OMCS and IMU data.
 
 <br>
 
-**📄 helpers_APacceleration.py**
+**📄 helpers_LumbarAccelerationIMU.py**
 
-Contains helper functions that are used by main_APacceleration.py.
+Contains helper functions that are used in main_LumbarAcceleration.py.
 
 <br>
 
